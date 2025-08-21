@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuksha28
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python c and java
+- 🌱 I’m currently learning python c and java webdev nextjs
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me mail
 
