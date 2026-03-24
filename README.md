@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%2B+Next.js;Building+Real+World+Projects)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuksha28&show_icons=true&theme=tokyonight)
 # Hi, I'm Anuksha 👋
 
 💻 Full Stack Developer (Django + Next.js)  
