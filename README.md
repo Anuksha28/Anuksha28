@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Anuksha28
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning python c and java webdev nextjs
-- 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me mail
+# Hi, I'm Anuksha 👋
 
-<!---
-Anuksha28/Anuksha28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full Stack Developer (Django + Next.js)  
+🚀 Building real-world web applications  
+🎯 Focused on backend systems and scalable apps  
+
+---
+
+## 🛠 Tech Stack
+- Backend: Django, Django REST Framework  
+- Frontend: Next.js, React  
+- Database: SQLite (learning MongoDB)  
+
+---
+
+## 🔥 Current Project
+👉 Task Manager (Full Stack)
+- Django API + Next.js frontend
+- Authentication (in progress)
+- Dashboard + onboarding system
+
+---
+
+## 📈 Goals
+- Become a strong Software Engineer  
+- Build production-level apps  
+- Contribute to open source  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (add link)
