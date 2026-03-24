@@ -29,4 +29,4 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/anuksha-ganguly-3a25b62a7/
